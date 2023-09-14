@@ -1,3 +1,7 @@
+# 個人メモ
+open cvがインストールできない場合は以下を試してみて  
+pip install opencv-python==4.5.4.60  -i
+
 # Poke-Controller MODIFIED
 
 本質的な部分はそのままに、機能を一部追加します
